@@ -1,0 +1,7 @@
+{
+  "despawntweaks.configuration.Structures": "Структуры",
+  "despawntweaks.configuration.StructuresMods": "Моды структур",
+  "despawntweaks.configuration.allowEquipmentDrops": "Разрешить выпадение экипировки",
+  "despawntweaks.configuration.allowMobsSpawnedBySpawnersToDespawn": "Разрешить исчезновение мобов из спавнеров",
+  "despawntweaks.configuration.enableLetMeDespawnOptimization": "Включить оптимизацию LetMeDespawn"
+}

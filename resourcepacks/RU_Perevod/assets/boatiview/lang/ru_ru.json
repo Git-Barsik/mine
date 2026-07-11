@@ -1,0 +1,13 @@
+{
+  "boatiview.configuration.client": "Boat Item View — клиент",
+  "boatiview.configuration.section.boatiview.client.toml": "Настройки клиента",
+  "boatiview.configuration.section.boatiview.client.toml.title": "Настройки клиента",
+  "boatiview.configuration.show_hands": "Показывать предметы в движущейся лодке",
+  "boatiview.configuration.show_hands.tooltip": "Отображать ли предмет в руке во время движения лодки",
+  "boatiview.configuration.title": "Boat Item View",
+  "boatiview.configuration.whitelisted_items": "Предметы для отображения в движущейся лодке",
+  "boatiview.configuration.whitelisted_items.tooltip": "Предметы, которые остаются отображёнными в руке. Символ '*' после ID мода включает все предметы этого мода, например 'modid:*'. Если ID мода перед '*' не указан, включаются все предметы, например '*'",
+  "text.autoconfig.client.option.show_hands": "Показывать предметы в движущейся лодке",
+  "text.autoconfig.client.option.whitelisted_items": "Предметы для отображения в движущейся лодке",
+  "text.autoconfig.client.title": "Boat Item View"
+}

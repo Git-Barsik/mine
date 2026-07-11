@@ -1,0 +1,10 @@
+{
+  "serverbrowser.button.next_page": "Далее: %s",
+  "serverbrowser.button.prev_page": "Назад",
+  "serverbrowser.button.register": "Зарегистрировать сервер",
+  "serverbrowser.button.filter": "Фильтр серверов",
+  "serverbrowser.button.history": "История (в разработке)",
+  "serverbrowser.button.favorite": "В избранное",
+  "serverbrowser.error.unreachable_website": "Сейчас не удаётся связаться с сайтом",
+  "serverbrowser.server.official": "Официальный"
+}
