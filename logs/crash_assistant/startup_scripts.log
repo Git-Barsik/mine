@@ -1,0 +1,2 @@
+[2026-07-11 14:15:30.310] [INFO] [StartupScripts]: Running script: startup/00_migrated_problematic_mods.jexl
+[2026-07-11 14:15:31.064] [INFO] [StartupScripts]: Running script: startup/example.jexl
